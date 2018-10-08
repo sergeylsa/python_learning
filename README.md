@@ -1,3 +1,3 @@
 # python_learning
-lessons: 0
-time: 01:13:36
+lessons: 1
+time: 00:54:36
