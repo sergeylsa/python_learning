@@ -40,7 +40,7 @@ else:
         bad_cnt += 1  
 print('----------------------------')
 #3-st question
-q = input('In python all is function(yes/no)?')
+q = input('In python  is all object(yes/no)?')
 if q.lower() == 'yes':
     print('Exellent, that is right')
     good_cnt += 1 
